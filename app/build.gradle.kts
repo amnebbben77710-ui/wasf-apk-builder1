@@ -3,10 +3,10 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 android {
-    namespace = "com.wasf.asphaltracer"
+    namespace = "com.wasf.filemanager"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.wasf.asphaltracer"
+        applicationId = "com.wasf.filemanager"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
