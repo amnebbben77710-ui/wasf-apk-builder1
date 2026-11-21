@@ -3,10 +3,10 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 android {
-    namespace = "com.wasf.filemanager"
+    namespace = "com.wasf.mygame"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.wasf.filemanager"
+        applicationId = "com.wasf.mygame"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
